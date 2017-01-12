@@ -1,0 +1,23 @@
+{
+  "name": "needu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/galr521/NeedU.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/galr521/NeedU/issues"
+  },
+  "homepage": "https://gitlab.com/galr521/NeedU#README",
+  "dependencies": {
+    "express": "^4.14.0",
+    "mongoose": "^4.7.6"
+  }
+}
